@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Yang;Kun;;;
 FN: Yang Kun 
-ORG:TalentKraft;
-TITLE:Consultant Intern
-EMAIL;type=INTERNET;type=WORK;type=pref:yangkun@outlook.sg
+ORG:United Overseas Bank Ltd (UOB);
+TITLE:Management Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:yang.ku1@uobgroup.com
 TEL;type=WORK;type=VOICE:+65 9721 9618
-item1.ADR;type=WORK;type=pref:;;67 Ayer Rajah Crescent, 02-10/17;;;139950;Singapore
+item1.ADR;type=WORK;type=pref:;;2 Shenton Way, #01-01;;;068804;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:linkedin.com/in/yangkunsg
 item2.X-ABLabel:_$!<HomePage>!$_
